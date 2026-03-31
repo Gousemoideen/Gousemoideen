@@ -48,9 +48,4 @@
 <br/>
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Gousemoideen&theme=dark&hide_border=false" />
-</div>
